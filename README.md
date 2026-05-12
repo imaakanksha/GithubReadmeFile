@@ -240,17 +240,38 @@ philosophy: "Automate the mundane, engineer the extraordinary"
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 Engineering Philosophy
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" width="100%" />
-</picture>
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   🏗️  ARCHITECTURE     →  Design for scale, build for resilience    │
+│   🤖  AUTOMATION        →  If it runs twice, it should be scripted  │
+│   🔍  QUALITY           →  Test early, test often, test everything  │
+│   🚀  DELIVERY          →  Ship fast, iterate faster                │
+│   📚  GROWTH            →  Every bug is a lesson in disguise        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
+
+---
+
+## 🌐 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+🔭 Focus Areas
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Agentic AI & LLMs    ████████████░░░░░░░░░   55%
+Full-Stack Dev       ██████░░░░░░░░░░░░░░░   25%
+QA Automation        ███░░░░░░░░░░░░░░░░░░   12%
+DevOps & Tooling     ██░░░░░░░░░░░░░░░░░░░    8%
+```
+<!--END_SECTION:waka-->
 
 ---
 
